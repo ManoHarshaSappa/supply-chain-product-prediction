@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: supply-chain-product-prediction
+Version: 0.1.0
+Summary: ML-based supply chain prediction system with Flask + LLM integration
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: matplotlib
+Requires-Dist: flask
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Dynamic: license-file
+
+    // "hospital": {
+    //   "command": "C:\\Users\\lokes\\.local\\bin\\uv.EXE",
+    //   "args": [
+    //     "run",
+    //     "--with",
+    //     "mcp[cli]",
+    //     "mcp",
+    //     "run",
+    //     "D:\\python-practice\\doc_appoint\\mcp_server\\hospital.py"
+    //   ]
+    // },
